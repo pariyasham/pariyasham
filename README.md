@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3>💁🏻‍♀️I learned...</h3>
+<h4>💁🏻‍♀️I learned...</h4>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&color=rgb(104%2C33%2C122)"> 
@@ -15,5 +15,6 @@
 <hr>
 <h4>💡 I'm currently learning these...</h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=rgb(255%2C212%2C72)">
-<img alt="Static Badge" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=rgb(16%2C109%2C175)&color=%23fff" style="border-inline:1px solid gray"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;</p>
-<h4>💡 and learn how to work with...</h4>&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&color=rgb(115%2C115%2C115)">
+<img alt="Static Badge" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=rgb(16%2C109%2C175)&color=%23fff" style="border-inline:1px solid gray">&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></p>
+<h4>💡 and learn how to work with...</h4>
+<img alt="Static Badge" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&color=rgb(115%2C115%2C115)">
