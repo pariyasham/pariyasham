@@ -23,7 +23,5 @@
 <h4>💡 I'm currently learning these...</h4>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=rgb(16%2C109%2C175)&color=%23fff" style="border-inline:1px solid gray">
 </p>
-<h4>💡 and learn how to work with...</h4>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&color=rgb(115%2C115%2C115)">  
-</p>
+
+
