@@ -1,75 +1,76 @@
-## 👋 Hi there, I'm Pariya!
+<h2 align="center">
+  <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="40" />
+ Hi, I'm Pariya! </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&width=435&lines=Data+Scientist+%7C+Machine+Learning+Enthusiast;Passionate+about+AI%2C+Data%20%26%20Visualization;Turning+Data+into+Actionable+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=1E88E5&center=true&width=500&lines=Data+Scientist+%7C+Machine+Learning;Passionate+about+AI%2C+Data%20%26%20Visualization;Turning+Data+into+Actionable+Insights"/>
 </p>
-
----
-
-### 🔗 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/pariya-shamshiri"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:pariyashamshamshiri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
 </p>
 
----
 
-### 🚀 Skills & Technologies
-
-#### 📌 Programming Languages:
-<p>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Python-Dark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/CS-Dark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/JS-Dark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/HTML-Dark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/CSS-Dark.svg" height="40"/>
-</p>
-
-#### 🛠️ Tools & Technologies:
-<p>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Git-Dark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Github-Dark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/SQL-Dark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/PowerBI-Dark.svg" height="40"/>
-</p>
-
-#### 🔬 Data Science & Machine Learning:
-<p>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/DataScience-Dark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/MachineLearning-Dark.svg" height="40"/>
-</p>
-
----
-
-### 📂 Projects
-Click on a skill to view projects related to it! 👇
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Data%20Science-1E88E5?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-</p>
-
----
-
-### 🎓 Work Experience & Certifications
-📎 Check out my [LinkedIn Profile](https://www.linkedin.com/in/pariya-shamshiri) for full details!
-(https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark)
-
----
-
-### 📊 GitHub Stats
+<h3 align="center"> 🔗| Get in Touch! </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pariyasham&show_icons=true&theme=dark"/>
+<a href="mailto:pariyashamshamshiri@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
+</a>
+  &nbsp&nbsp
+<a href="https://www.linkedin.com/in/pariya-shamshiri">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
+</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pariyasham&theme=dark"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
 </p>
 
----
-
-### 👀 Profile Views
+<h3 align="center"> 📌| Skills & Technologies </h3>
+<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pariyasham&style=flat-square&color=blue"/>
+  <strong>Programming Languages:</strong><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs,mysql&titles=true&theme=dark"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js&titles=true&theme=dark"/>
+</p>
+<br>
+<p align="center">
+  <strong>Tools & Technologies:</strong><br>
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,jupyter,anaconda,figma,photoshop&titles=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</p>
+
+<h3 align="center"> 📂| Projects </h3>
+<p align="center">Click on a skill to view projects related to it! 👇</p>
+
+<p align="center">
+  <a href="https://github.com/pariyasham?tab=repositories&q=&type=&language=jupyter+notebook&sort=">
+    <img src="https://img.shields.io/badge/Data%20Science%20&%20Machine%20Learning-1E88E5?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</p>
+
+<h3 align="center"> 🎓| Work Experience & Certifications </h3>
+<p align="center">
+Check out my <a href="https://www.linkedin.com/in/pariya-shamshiri">LinkedIn Profile</a> for full details!
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" /> <br>
+  <strong>Joined GitHub: 2018</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pariyasham&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
