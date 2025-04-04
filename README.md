@@ -30,7 +30,7 @@
 <p align="center">
   <strong>Programming Languages:</strong><br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs,mysql&titles=true&theme=dark"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js&titles=true&theme=dark"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress,html,css,js&titles=true&theme=dark"/>
 </p>
 <br>
 <p align="center">
