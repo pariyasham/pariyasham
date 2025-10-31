@@ -51,6 +51,16 @@
     <img src="https://img.shields.io/badge/Data%20Science%20&%20Machine%20Learning-1E88E5?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/pariyasham/python-fundamentals-practice">
+    <img src="https://img.shields.io/badge/Python%20Fundamentals%20Practices-FFD700?style=for-the-badge&logo=python&logoColor=%23333333" />
+  </a>
+</p>
+
+
+
+
+
 
 
 <p align="center">
