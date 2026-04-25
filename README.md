@@ -28,7 +28,9 @@
 <h3 align="center"> 📌| Skills </h3>
 <br>
   <!-- <strong>Programming Languages:</strong><br>-->
+   <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs&titles=true&theme=dark"/>
+   </p>
  <!---<p align="center">
   <strong>Programming Languages:</strong><br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs,mysql&titles=true&theme=dark"/>
