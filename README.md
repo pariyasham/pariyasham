@@ -25,19 +25,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
 </p>
 
-<h3 align="center"> 📌| Skills & Technologies </h3>
+<h3 align="center"> 📌| Skills </h3>
 <br>
-<p align="center">
+  <!-- <strong>Programming Languages:</strong><br>-->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs&titles=true&theme=dark"/>
+ <!---<p align="center">
   <strong>Programming Languages:</strong><br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs,mysql&titles=true&theme=dark"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress,html,css,js&titles=true&theme=dark"/>
-</p>
-<br>
-<p align="center">
-  <strong>Tools & Technologies:</strong><br>
-  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,jupyter,anaconda,figma,photoshop&titles=true&theme=dark"/>
-</p>
+</p>-->
+ <!-- <p align="center"><strong>Tools & Technologies:</strong><br><img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" height="40"/><img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,jupyter,anaconda,figma,photoshop&titles=true&theme=dark"/></p> -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
